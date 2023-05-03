@@ -28,7 +28,7 @@
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-contents{
+.left-section-contents {
     padding: 2rem 2rem;
 }
 
@@ -94,6 +94,7 @@
 .skills ul {
     padding-top: 1.5rem;
 }
+
 .skills ul li p {
     padding: 0.4rem 0;
     color: #d6dbdfaf;
@@ -123,6 +124,7 @@
 .gap {
     padding-bottom: 2rem;
 }
+
 .about-me-contents {
     font-size: 18px;
     letter-spacing: 1px;
@@ -177,4 +179,20 @@
     line-height: 1.5rem;
     border-left: 3px solid #a5a3a3;
     padding-left: 5px;
+}
+
+a:link {
+    color: yellowgreen;
+}
+
+a:visited {
+    color: lightgreen;
+}
+
+a:hover {
+    color: darkgray;
+}
+
+a:active {
+    color: lightblue;
 }
