@@ -182,17 +182,17 @@
 }
 
 a:link {
-    color: yellowgreen;
+    color: yellowgreen !important;
 }
 
 a:visited {
-    color: lightgreen;
+    color: lightgreen !important;
 }
 
 a:hover {
-    color: darkgray;
+    color: darkgray !important;
 }
 
 a:active {
-    color: lightblue;
+    color: lightblue !important;
 }
